@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "homework11",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana7770/goit-js-hw-11-Node.js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Diana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana7770/goit-js-hw-11-Node.js/issues"
+  },
+  "homepage": "https://github.com/diana7770/goit-js-hw-11-Node.js#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
